@@ -1,0 +1,12 @@
+
+So I guess I am going to use this as a place for links to the stuff we do 
+and don't do related to class. But also to familiarzie myself with GitHub 
+a bit more.
+
+This is a place for mistakes, without regrets. 
+For experimenting, without setting your face on fire.
+To write silly stuff, and maybe learn something.
+
+SassDoc
+http://sassdoc.com/
+
